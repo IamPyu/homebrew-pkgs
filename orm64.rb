@@ -1,4 +1,4 @@
-class Wget < Formula
+class Orm64 < Formula
   url "https://github.com/seania0/orm64"
 
   def install
